@@ -12,3 +12,11 @@ A simple Python command-line tool that displays text, character count, and word 
 
 ```bash
 python textinfo.py hello world
+```
+## Output
+
+Text:        hello world
+
+Characters:  11
+
+Words:       2
